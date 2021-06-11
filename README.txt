@@ -54,4 +54,4 @@ git commi -m "Modificación de index.html"
 git pull
 
 git push  origin master
->>>>>>> hectoralcaraz
+
